@@ -1,0 +1,11 @@
+[project]
+name = "assistant-tools-handoffs"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "openai-agents>=0.2.3",
+    "py-dotenv>=0.1",
+    "rich>=14.0.0",
+]
